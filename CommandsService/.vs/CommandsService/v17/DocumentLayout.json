@@ -1,110 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharp\\CommandsService\\",
+  "WorkspaceRootPath": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\AsyncDataServices\\MessageBusSubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncDataServices\\MessageBusSubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Controllers\\CommandsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CommandsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\asyncdataservices\\messagebussubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:asyncdataservices\\messagebussubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\EventProcessing\\EventProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventProcessing\\EventProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\EventProcessing\\IEventProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventProcessing\\IEventProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\CommandsService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommandsService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Data\\PrepDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\PrepDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\eventprocessing\\ieventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:eventprocessing\\ieventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\SyncDataServices\\Grpc\\PlatformDataClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SyncDataServices\\Grpc\\PlatformDataClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Protos\\platforms.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Protos\\platforms.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Profiles\\CommandsProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Profiles\\CommandsProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\eventprocessing\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:eventprocessing\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\CommandsService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommandsService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\commandsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:commandsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Data\\ICommandRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ICommandRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\profiles\\commandsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:profiles\\commandsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\SyncDataServices\\Grpc\\IPlatformDataClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SyncDataServices\\Grpc\\IPlatformDataClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\protos\\platforms.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:protos\\platforms.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\appsettings.Production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\syncdataservices\\grpc\\platformdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:syncdataservices\\grpc\\platformdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\syncdataservices\\grpc\\iplatformdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:syncdataservices\\grpc\\iplatformdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Data\\CommandRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\CommandRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Controllers\\PlatformsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PlatformsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Models\\Platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Dtos\\CommandCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\CommandCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\CommandsService.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommandsService.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\csharp\\CommandsService\\Dtos\\PlatformPublishedDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\PlatformPublishedDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\commandsservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:commandsservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|d:\\csharp\\platformandcommandservices\\commandsservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3092DD04-B804-42CF-BCBB-6B4C7F5AEBCE}|CommandsService.csproj|solutionrelative:dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,80 +114,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IEventProcessor.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\EventProcessing\\IEventProcessor.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\EventProcessing\\IEventProcessor.cs",
               "RelativeDocumentMoniker": "EventProcessing\\IEventProcessor.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\EventProcessing\\IEventProcessor.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\EventProcessing\\IEventProcessor.cs",
               "RelativeToolTip": "EventProcessing\\IEventProcessor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:46:24.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:46:24.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\csharp\\CommandsService\\appsettings.Development.json",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-15T14:28:36.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T14:28:36.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Startup.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Startup.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEUAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T08:48:52.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CommandsController.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Controllers\\CommandsController.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Controllers\\CommandsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CommandsController.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Controllers\\CommandsController.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Controllers\\CommandsController.cs",
               "RelativeToolTip": "Controllers\\CommandsController.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T09:02:15.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T09:02:15.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EventProcessor.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\EventProcessing\\EventProcessor.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\EventProcessing\\EventProcessor.cs",
               "RelativeDocumentMoniker": "EventProcessing\\EventProcessor.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\EventProcessing\\EventProcessor.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\EventProcessing\\EventProcessor.cs",
               "RelativeToolTip": "EventProcessing\\EventProcessor.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwC0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:27:51.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T08:27:51.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Program.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Program.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MessageBusSubscriber.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\AsyncDataServices\\MessageBusSubscriber.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\AsyncDataServices\\MessageBusSubscriber.cs",
               "RelativeDocumentMoniker": "AsyncDataServices\\MessageBusSubscriber.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\AsyncDataServices\\MessageBusSubscriber.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\AsyncDataServices\\MessageBusSubscriber.cs",
               "RelativeToolTip": "AsyncDataServices\\MessageBusSubscriber.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "CommandsService.csproj",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\CommandsService.csproj",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj",
               "RelativeDocumentMoniker": "CommandsService.csproj",
-              "ToolTip": "D:\\csharp\\CommandsService\\CommandsService.csproj",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj",
               "RelativeToolTip": "CommandsService.csproj",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -221,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "CommandsProfile.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Profiles\\CommandsProfile.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Profiles\\CommandsProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\CommandsProfile.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Profiles\\CommandsProfile.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Profiles\\CommandsProfile.cs",
               "RelativeToolTip": "Profiles\\CommandsProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "platforms.proto",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Protos\\platforms.proto",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Protos\\platforms.proto",
               "RelativeDocumentMoniker": "Protos\\platforms.proto",
-              "ToolTip": "D:\\csharp\\CommandsService\\Protos\\platforms.proto",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Protos\\platforms.proto",
               "RelativeToolTip": "Protos\\platforms.proto",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
@@ -245,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PlatformDataClient.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\SyncDataServices\\Grpc\\PlatformDataClient.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\SyncDataServices\\Grpc\\PlatformDataClient.cs",
               "RelativeDocumentMoniker": "SyncDataServices\\Grpc\\PlatformDataClient.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\SyncDataServices\\Grpc\\PlatformDataClient.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\SyncDataServices\\Grpc\\PlatformDataClient.cs",
               "RelativeToolTip": "SyncDataServices\\Grpc\\PlatformDataClient.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PrepDb.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Data\\PrepDb.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\PrepDb.cs",
               "RelativeDocumentMoniker": "Data\\PrepDb.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Data\\PrepDb.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\PrepDb.cs",
               "RelativeToolTip": "Data\\PrepDb.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAqwBgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,9 +267,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ICommandRepo.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Data\\ICommandRepo.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\ICommandRepo.cs",
               "RelativeDocumentMoniker": "Data\\ICommandRepo.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Data\\ICommandRepo.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\ICommandRepo.cs",
               "RelativeToolTip": "Data\\ICommandRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IPlatformDataClient.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\SyncDataServices\\Grpc\\IPlatformDataClient.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\SyncDataServices\\Grpc\\IPlatformDataClient.cs",
               "RelativeDocumentMoniker": "SyncDataServices\\Grpc\\IPlatformDataClient.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\SyncDataServices\\Grpc\\IPlatformDataClient.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\SyncDataServices\\Grpc\\IPlatformDataClient.cs",
               "RelativeToolTip": "SyncDataServices\\Grpc\\IPlatformDataClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,9 +291,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "appsettings.Production.json",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\appsettings.Production.json",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\appsettings.Production.json",
               "RelativeDocumentMoniker": "appsettings.Production.json",
-              "ToolTip": "D:\\csharp\\CommandsService\\appsettings.Production.json",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\appsettings.Production.json",
               "RelativeToolTip": "appsettings.Production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -307,9 +303,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Dockerfile",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "D:\\csharp\\CommandsService\\Dockerfile",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -319,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,9 +327,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\csharp\\CommandsService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -341,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "CommandsService.csproj.user",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\CommandsService.csproj.user",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj.user",
               "RelativeDocumentMoniker": "CommandsService.csproj.user",
-              "ToolTip": "D:\\csharp\\CommandsService\\CommandsService.csproj.user",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj.user",
               "RelativeToolTip": "CommandsService.csproj.user",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
@@ -355,9 +351,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\appsettings.json",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\csharp\\CommandsService\\appsettings.json",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -367,9 +363,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "CommandRepo.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Data\\CommandRepo.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\CommandRepo.cs",
               "RelativeDocumentMoniker": "Data\\CommandRepo.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Data\\CommandRepo.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Data\\CommandRepo.cs",
               "RelativeToolTip": "Data\\CommandRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,9 +375,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "PlatformsController.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Controllers\\PlatformsController.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PlatformsController.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Controllers\\PlatformsController.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Controllers\\PlatformsController.cs",
               "RelativeToolTip": "Controllers\\PlatformsController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAjwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Platform.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Models\\Platform.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Models\\Platform.cs",
               "RelativeDocumentMoniker": "Models\\Platform.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Models\\Platform.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Models\\Platform.cs",
               "RelativeToolTip": "Models\\Platform.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "CommandCreateDto.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Dtos\\CommandCreateDto.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Dtos\\CommandCreateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CommandCreateDto.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Dtos\\CommandCreateDto.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Dtos\\CommandCreateDto.cs",
               "RelativeToolTip": "Dtos\\CommandCreateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -414,10 +410,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "CommandsService.csproj",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\CommandsService.csproj",
+              "Title": "CommandsService",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj",
               "RelativeDocumentMoniker": "CommandsService.csproj",
-              "ToolTip": "D:\\csharp\\CommandsService\\CommandsService.csproj",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj",
               "RelativeToolTip": "CommandsService.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-02T09:23:09.434Z"
@@ -426,9 +422,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "PlatformPublishedDto.cs",
-              "DocumentMoniker": "D:\\csharp\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
+              "DocumentMoniker": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
               "RelativeDocumentMoniker": "Dtos\\PlatformPublishedDto.cs",
-              "ToolTip": "D:\\csharp\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
+              "ToolTip": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
               "RelativeToolTip": "Dtos\\PlatformPublishedDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

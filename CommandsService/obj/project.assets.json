@@ -2617,11 +2617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp\\CommandsService\\CommandsService.csproj",
+      "projectUniqueName": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj",
       "projectName": "CommandsService",
-      "projectPath": "D:\\csharp\\CommandsService\\CommandsService.csproj",
+      "projectPath": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\CommandsService.csproj",
       "packagesPath": "C:\\Users\\79062\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp\\CommandsService\\obj\\",
+      "outputPath": "D:\\csharp\\PlatformAndCommandServices\\CommandsService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79062\\AppData\\Roaming\\NuGet\\NuGet.Config",

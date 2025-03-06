@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp\\PlatformService\\PlatformService\\PlatformService.csproj": {}
+    "D:\\csharp\\PlatformAndCommandServices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\csharp\\PlatformService\\PlatformService\\PlatformService.csproj": {
+    "D:\\csharp\\PlatformAndCommandServices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\csharp\\PlatformAndCommandServices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\csharp\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\csharp\\PlatformAndCommandServices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\79062\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp\\PlatformService\\PlatformService\\obj\\",
+        "outputPath": "D:\\csharp\\PlatformAndCommandServices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79062\\AppData\\Roaming\\NuGet\\NuGet.Config",

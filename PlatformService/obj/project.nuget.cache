@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nVf9AWI9Kn0=",
+  "dgSpecHash": "IjN7ms1CUyU=",
   "success": true,
-  "projectFilePath": "D:\\csharp\\PlatformService\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "D:\\csharp\\PlatformAndCommandServices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79062\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\79062\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
